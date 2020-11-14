@@ -1,0 +1,72 @@
+* [33mcommit e66c008af55d9bda9883b0c1400aa2f37f456943[m[33m ([m[1;36mHEAD -> [m[1;32mnewbranch[m[33m, [m[1;31morigin/newbranch[m[33m)[m
+[31m|[m Author: TrackNNN <TrackNNN@163.com>
+[31m|[m Date:   Sat Nov 14 16:55:25 2020 +0800
+[31m|[m 
+[31m|[m     delete
+[31m|[m 
+* [33mcommit f8cb706e812029cd541d51c5485ec8dd5d4a49cf[m
+[31m|[m Author: TrackNNN <TrackNNN@163.com>
+[31m|[m Date:   Sat Nov 14 16:50:52 2020 +0800
+[31m|[m 
+[31m|[m     a
+[31m|[m   
+*   [33mcommit eedd90d9baa01204aebdb87b6611d59129c08f51[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[32m|[m[33m\[m  Merge: f0876f1 fbbc1d1
+[32m|[m [33m|[m Author: TrackNNN <TrackNNN@163.com>
+[32m|[m [33m|[m Date:   Sat Nov 14 11:24:18 2020 +0800
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     newfile2
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit fbbc1d15b8cd2e204a792a48b8a96e78bc299b0b[m
+[32m|[m [33m|[m Author: TrackNNN <TrackNNN@163.com>
+[32m|[m [33m|[m Date:   Sat Nov 14 11:18:02 2020 +0800
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     aaa2,add newfile2
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit f0876f1b3c2d7196a6c0c3468dea0b812dbabf77[m
+[33m|[m[33m/[m  Author: TrackNNN <TrackNNN@163.com>
+[33m|[m   Date:   Sat Nov 14 11:18:02 2020 +0800
+[33m|[m   
+[33m|[m       newfile2
+[33m|[m 
+* [33mcommit 1bc0298052306977a7f9ea1a61c4bdbfebfd2004[m
+[33m|[m Author: TrackNNN <TrackNNN@163.com>
+[33m|[m Date:   Sat Nov 14 11:00:46 2020 +0800
+[33m|[m 
+[33m|[m     aaa
+[33m|[m 
+* [33mcommit be5ee1010be3f8943e0fbc995f206cb865652d99[m
+[33m|[m Author: TrackNNN <TrackNNN@163.com>
+[33m|[m Date:   Tue Oct 13 11:49:35 2020 +0800
+[33m|[m 
+[33m|[m     newfile2
+[33m|[m 
+* [33mcommit 42b19ddc22564a83470616cbabfd75489e600b97[m
+[33m|[m Author: TrackNNN <TrackNNN@163.com>
+[33m|[m Date:   Tue Oct 13 11:45:31 2020 +0800
+[33m|[m 
+[33m|[m     a
+[33m|[m 
+* [33mcommit 15b4339246f526cc0232b811e9515845c0ea24d5[m
+[33m|[m Author: TrackNNN <TrackNNN@163.com>
+[33m|[m Date:   Tue Oct 13 11:25:45 2020 +0800
+[33m|[m 
+[33m|[m     newfile
+[33m|[m 
+* [33mcommit 64755268755990d9ea6ce1f32589862f2e4dcd55[m
+[33m|[m Author: TrackNNN <TrackNNN@163.com>
+[33m|[m Date:   Tue Oct 13 11:20:23 2020 +0800
+[33m|[m 
+[33m|[m     a???
+[33m|[m 
+* [33mcommit 81f6bde5117efea92dfc7082a0386f84972df160[m
+[33m|[m Author: TrackNNN <TrackNNN@163.com>
+[33m|[m Date:   Tue Oct 13 11:14:36 2020 +0800
+[33m|[m 
+[33m|[m     testmodified
+[33m|[m 
+* [33mcommit 3b9d0de96464d5bd1929c25f54950797597cd312[m
+  Author: Track <39366238+TrackNNN@users.noreply.github.com>
+  Date:   Tue Oct 13 10:20:27 2020 +0800
+  
+      Initial commit
